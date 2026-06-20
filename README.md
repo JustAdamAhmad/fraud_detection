@@ -1,10 +1,10 @@
-# 🛡️ Insurance Fraud Detection — Predictive Risk Modelling
+# Insurance Fraud Detection — Predictive Risk Modelling
 
 A machine learning case study for an insurance company looking to reduce fraud losses while protecting genuine customers from unnecessary referrals.
 
 ---
 
-## 📌 Overview
+## Overview
 
 This repository contains a technical report and predictive model built around a real-world insurance fraud dataset. The goal is to flag potentially fraudulent claims for further investigation — without incorrectly referring genuine customers.
 
@@ -17,13 +17,13 @@ The model needs to balance both risks fairly, using an **unbiased predictive app
 
 ---
 
-## 🎯 Objective
+## Objective
 
 > Build a predictive model capable of flagging and referring potential fraud cases for further investigation, while keeping false referrals of genuine customers as low as possible.
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 ├── data/                  # Dataset (raw and processed)
@@ -45,7 +45,7 @@ The model needs to balance both risks fairly, using an **unbiased predictive app
 
 ---
 
-## 📊 Approach
+## Approach
 
 1. **Exploratory Data Analysis** — understanding class imbalance, feature distributions, and fraud patterns
 2. **Preprocessing** — handling missing values, encoding, and feature engineering
@@ -56,7 +56,7 @@ The model needs to balance both risks fairly, using an **unbiased predictive app
 
 ---
 
-## ⚠️ Business Constraint
+## Business Constraint
 
 > Any genuine claim that is incorrectly referred is assumed to result in losing that customer.
 
@@ -64,6 +64,7 @@ This constraint directly shapes how the model is evaluated — minimising **fals
 
 ---
 
-## 📎 Status
+##
+Status
 
 🔄 In progress — part of MSc Artificial Intelligence coursework at the University of Leeds.
