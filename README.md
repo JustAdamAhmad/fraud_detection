@@ -65,6 +65,3 @@ This constraint directly shapes how the model is evaluated — minimising **fals
 ---
 
 ##
-Status
-
-🔄 In progress — part of MSc Artificial Intelligence coursework at the University of Leeds.
