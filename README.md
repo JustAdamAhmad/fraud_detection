@@ -35,7 +35,7 @@ The model needs to balance both risks fairly, using an **unbiased predictive app
 
 ---
 
-## 🔧 Tools & Technologies
+## Tools & Technologies
 
 - **Python** — core language
 - **Pandas / NumPy** — data manipulation
